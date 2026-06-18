@@ -2,17 +2,19 @@
 
 Frontend Developer with 8+ years of experience building enterprise web applications, responsive user interfaces, and scalable digital platforms.
 
-## Skills
+Frontend Developer
 
-Drupal Frontend
-React.js
-JavaScript
-TypeScript
-HTML5
-CSS3
-SCSS
-Git
-Responsive Web Design
+## Skills
+- React.js
+- JavaScript
+- TypeScript
+- Drupal
+- HTML5
+- CSS3
+- SCSS
+- Git
+- Responsive Web Design
+- REST API Integration
 
 ## Experience
 
