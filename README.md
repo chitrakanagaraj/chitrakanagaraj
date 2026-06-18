@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Chitra Kanagaraj 👋
 
-<!--
-**chitrakanagaraj/chitrakanagaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 8+ years of experience building enterprise web applications, responsive user interfaces, and scalable digital platforms.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React.js
+* JavaScript
+* TypeScript
+* Drupal Frontend
+* HTML5
+* CSS3
+* SCSS
+* Git
+
+## Experience
+
+* 8+ years in Frontend Development
+* Enterprise Web Applications
+* Responsive UI Development
+* Component-Based Architecture
+* REST API Integration
+
+## Currently Learning
+
+* React Architecture
+* TypeScript
+* Redux Toolkit
+* Frontend Performance Optimization
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/chitra-kanagaraj-52b8ab90/
