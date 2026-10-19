@@ -31,6 +31,18 @@ Frontend Developer
 * Redux Toolkit
 * Frontend Performance Optimization
 
+## Projects
+
+### Violet — NYU program index
+
+Unofficial personal demo for browsing a curated sample of New York University programs. Search, filter by school, degree level, and campus, and save a shortlist in the browser. Built with React, TypeScript, and Vite.
+
+```bash
+cd nyu-project
+npm install
+npm run dev
+```
+
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/chitra-kanagaraj-52b8ab90/
